@@ -4,7 +4,7 @@ const Letter = () => {
   return (
     <div className="letter">
       <iframe
-        src="https://giphy.com/embed/l378wyqyofEWrbz3y"
+        src="https://drive.google.com/file/d/1CzxC03-6BhzEN_WNpbdqx2EOj6Ckrg8m/preview"
         width="350"
         height="350"
         frameBorder="0"
