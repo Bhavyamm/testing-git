@@ -1,0 +1,26 @@
+[
+  {
+    "first_name": "Ross",
+    "last_name": "Geller",
+    "age": "27",
+    "marks": "50"
+  },
+  {
+    "first_name": "Joey",
+    "last_name": "Tribbiani",
+    "age": "30",
+    "marks": "30"
+  },
+  {
+    "first_name": "Monica",
+    "last_name": "Geller",
+    "age": "29",
+    "marks": "90"
+  },
+  {
+    "first_name": "Chandler",
+    "last_name": "Bing",
+    "age": "28",
+    "marks": "70"
+  }
+]
